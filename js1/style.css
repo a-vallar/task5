@@ -1,0 +1,46 @@
+body {
+  font-family: Georgia, 'Times New Roman', serif;
+  margin: 40px;
+}
+
+h1 {
+  font-size: 2.2em;
+  margin-bottom: 30px;
+}
+
+.row {
+  margin-bottom: 10px;
+}
+
+label {
+  display: inline-block;
+  width: 170px;
+  font-size: 1.1em;
+}
+
+input[type="text"], input[type="number"] {
+  font-size: 1em;
+  padding: 4px 6px;
+  width: 160px;
+}
+
+button {
+  font-size: 1em;
+  padding: 6px 16px;
+  margin-right: 8px;
+  margin-top: 5px;
+}
+
+.results {
+  margin-top: 25px;
+}
+
+.results p {
+  margin: 6px 0;
+  font-size: 1.1em;
+}
+
+.results span.label {
+  display: inline-block;
+  width: 170px;
+}
